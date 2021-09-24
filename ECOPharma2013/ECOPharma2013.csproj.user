@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\192.168.1.5\eco pubclic share\Softwares\Ecopharma\Publish\|\\192.168.11.68\it 7-3-2015\Publish\|\\192.168.9.68\it 7-3-2015\Publish\|\\192.168.13.68\it 7-3-2015\Publish\|\\192.168.12.68\it 7-3-2015\Publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\192.168.1.5\eco pubclic share\Softwares\Ecopharma\Publish\|\\192.168.11.68\it 7-3-2015\Publish\|\\192.168.9.68\it 7-3-2015\Publish\|\\192.168.13.68\it 7-3-2015\Publish\|\\192.168.12.68\it 7-3-2015\Publish\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\192.168.1.5\eco pubclic share\Softwares\Ecopharma\Publish\|\\192.168.11.68\it 7-3-2015\Publish\|\\192.168.9.68\it 7-3-2015\Publish\|\\192.168.13.68\it 7-3-2015\Publish\|\\192.168.12.68\it 7-3-2015\Publish\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
